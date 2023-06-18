@@ -1,0 +1,21 @@
+,ID,Name
+0,xgboost,Extreme Gradient Boosting
+1,catboost,CatBoost Regressor
+2,et,Extra Trees Regressor
+3,rf,Random Forest Regressor
+4,lightgbm,Light Gradient Boosting Machine
+5,dt,Decision Tree Regressor
+6,gbr,Gradient Boosting Regressor
+7,knn,K Neighbors Regressor
+8,ada,AdaBoost Regressor
+9,ridge,Ridge Regression
+10,br,Bayesian Ridge
+11,lar,Least Angle Regression
+12,lr,Linear Regression
+13,huber,Huber Regressor
+14,en,Elastic Net
+15,omp,Orthogonal Matching Pursuit
+16,lasso,Lasso Regression
+17,llar,Lasso Least Angle Regression
+18,par,Passive Aggressive Regressor
+19,dummy,Dummy Regressor

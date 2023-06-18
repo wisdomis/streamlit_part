@@ -1,0 +1,15 @@
+,ID,Name
+0,qda,Quadratic Discriminant Analysis
+1,lightgbm,Light Gradient Boosting Machine
+2,et,Extra Trees Classifier
+3,rf,Random Forest Classifier
+4,gbc,Gradient Boosting Classifier
+5,dt,Decision Tree Classifier
+6,knn,K Neighbors Classifier
+7,dummy,Dummy Classifier
+8,ada,Ada Boost Classifier
+9,lda,Linear Discriminant Analysis
+10,svm,SVM - Linear Kernel
+11,nb,Naive Bayes
+12,lr,Logistic Regression
+13,ridge,Ridge Classifier
